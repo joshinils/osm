@@ -40,6 +40,7 @@ Naja nicht ganz, das hat doch etwas gedauert.
 
 An den Ärmel kommt eine Tasche:
 ![jacke_tasche_aermel.jpg](https://joshinils.github.io/osm/jacke_tasche_aermel.jpg)
+
 Sowohl links und rechts (rechts nicht abgebildet).
 ![jacke_aermeltasche.jpg](https://joshinils.github.io/osm/jacke_aermeltasche.jpg)
 
@@ -62,14 +63,18 @@ Und ein solider Haken darf nicht fehlen!
 Gute Idee! nur hab ich gemerkt, dass ich beim reinfummeln des Handys diese leider einmal gesperrt habe und somit hat es auhc keine Bilder gemacht. Aber da hilf der Geführte Modus, erst einschalten, dann kann ich das Handy nicht mehr sperren oder sonst damit interagieren.
 
 Schulter rechts
-[![Beispiel](https://images.mapillary.com/HGi1ilI0dXZtLOeUTdJSy0/thumb-2048.jpg)](https://www.mapillary.com/map/im/HGi1ilI0dXZtLOeUTdJSy0)
+[![Beispiel](https://images.mapillary.com/HGi1ilI0dXZtLOeUTdJSy0/thumb-2048.jpg)
+](https://www.mapillary.com/map/im/HGi1ilI0dXZtLOeUTdJSy0)
 Schulter Links
-[![Beispiel](https://images.mapillary.com/WddFjmJ3xRXGQZxsVLBNNZ/thumb-2048.jpg)](https://www.mapillary.com/map/im/WddFjmJ3xRXGQZxsVLBNNZ)
+[![Beispiel](https://images.mapillary.com/WddFjmJ3xRXGQZxsVLBNNZ/thumb-2048.jpg)
+](https://www.mapillary.com/map/im/WddFjmJ3xRXGQZxsVLBNNZ)
 Nach vorn
-[![Beispiel](https://images.mapillary.com/JTQrGNHZq0xMZCLtE4zv2w/thumb-2048.jpg)](https://www.mapillary.com/map/im/JTQrGNHZq0xMZCLtE4zv2w)
+[![Beispiel](https://images.mapillary.com/JTQrGNHZq0xMZCLtE4zv2w/thumb-2048.jpg)
+](https://www.mapillary.com/map/im/JTQrGNHZq0xMZCLtE4zv2w)
 
 Altes Iphone 4 zur Seite (Iphone 8 nach vorn wird noch verarbeitet)
-[![Beispiel](https://images.mapillary.com/sZMjviGgn6apyxgRaN7G3E/thumb-2048.jpg)](https://www.mapillary.com/map/im/sZMjviGgn6apyxgRaN7G3E)
+[![Beispiel](https://images.mapillary.com/sZMjviGgn6apyxgRaN7G3E/thumb-2048.jpg)
+](https://www.mapillary.com/map/im/sZMjviGgn6apyxgRaN7G3E)
 Theoretisch könnte ich also mit drei Handys gleichzeitig aufnehmen, hab nur keine drei.
 
 ---
@@ -107,10 +112,12 @@ Dann starte ich Mapillary und Fahre los.
 ## Fazit
 
 Die Konstruktion sieht nicht so prickelnd aus, aber funktioniert super, und der Rucksack verbirgt das Schreinerische Grauen.
-[![Beispiel](https://images.mapillary.com/RK2XVVKZpz69fqhk3IDi82/thumb-2048.jpg)](https://www.mapillary.com/map/im/RK2XVVKZpz69fqhk3IDi82)
+[![Beispiel](https://images.mapillary.com/RK2XVVKZpz69fqhk3IDi82/thumb-2048.jpg)
+](https://www.mapillary.com/map/im/RK2XVVKZpz69fqhk3IDi82)
 
 Das ganze könnte noch ein wenig weiter vom Kopf weg sein nach hinten, mit dem Helm stoße ich da manchmal hinten an.
-[![Beispiel](https://images.mapillary.com/KIzejQWayheu73hTlzu1j5/thumb-2048.jpg)](https://www.mapillary.com/map/im/KIzejQWayheu73hTlzu1j5)
+[![Beispiel](https://images.mapillary.com/KIzejQWayheu73hTlzu1j5/thumb-2048.jpg)
+](https://www.mapillary.com/map/im/KIzejQWayheu73hTlzu1j5)
 
 ---
 
@@ -121,10 +128,13 @@ Damit mache ich Tags super bilder mit dem Handy. Nur mag ich nicht extra mit dem
 Das benutze ich also nur, wenn ich mal mit dem Auto wohinfahre wo ich noch keine Bilder gemacht habe, dann kann ich aber auch mal einen kleinen Umweg fahren.
 
 Wenn ich stehe ist alles Scharf und nicht verwackelt.
-[![Beispiel](https://images.mapillary.com/vHf0fsekepdLc0cwor8dYU/thumb-2048.jpg)](https://www.mapillary.com/map/im/vHf0fsekepdLc0cwor8dYU)
+[![Beispiel](https://images.mapillary.com/vHf0fsekepdLc0cwor8dYU/thumb-2048.jpg)
+](https://www.mapillary.com/map/im/vHf0fsekepdLc0cwor8dYU)
 
 Aber ich stehe ja nicht immer...
-[![Beispiel](https://images.mapillary.com/63mMvj4GviFQAqBRSKUkwW/thumb-2048.jpg)](https://www.mapillary.com/map/im/63mMvj4GviFQAqBRSKUkwW)
+[![Beispiel](https://images.mapillary.com/63mMvj4GviFQAqBRSKUkwW/thumb-2048.jpg)
+](https://www.mapillary.com/map/im/63mMvj4GviFQAqBRSKUkwW)
 
 Sobald es Dunkel wird, sieht es nicht mehr so gut aus.
-[![Beispiel](https://images.mapillary.com/lr7S3g0SBsjEdPSNaHmvwD/thumb-2048.jpg)](https://www.mapillary.com/map/im/lr7S3g0SBsjEdPSNaHmvwD)
+[![Beispiel](https://images.mapillary.com/lr7S3g0SBsjEdPSNaHmvwD/thumb-2048.jpg)
+](https://www.mapillary.com/map/im/lr7S3g0SBsjEdPSNaHmvwD)
