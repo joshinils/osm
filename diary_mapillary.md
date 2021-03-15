@@ -7,6 +7,7 @@ Da ich nicht mit ausgestrecktem Arm und das Handy in der Hand haltend herum Lauf
 Da das Anbringen des Handys am Lenker nur für verwackelte Bilder sorgt, wollte ich mich selbst als Stoßdämpfer zwischen Rad und Handy bringen.
 
 ---
+
 Das hat auch soweit Funktioniert, auf den Bildern kann man scharf alles erkennen (naja mit Einschränkungen, so ganz Perfekt geht es halt nicht mit dem Handy).
 Das Problem ist, dass da ein relativ großes Gewicht oben drauf kommt. Außerdem kann ich mich nicht frei umsehen ohne die Richtung der Bilder zu verändern (macht man ja mal auf dem Rad).
 ![helm_seite.jpg](https://joshinils.github.io/osm/helm_seite.jpg)
@@ -23,6 +24,8 @@ Hab ich direkt wieder abgemacht, und anders verwertet.
 Ganz zu schweigen davon, was passiert wenn ich in eine Unfall verwickelt wäre und da ein extra Gewicht an meinem Helm hängt womit der nicht ausgelegt ist.
 
 Die Beispielbilder habe ich nicht hochgeladen, sondern gelöscht, da die Halterung selber zu gut sehen war.
+
+---
 
 # Jacke
 ![jacke_ganz.jpg](https://joshinils.github.io/osm/jacke_ganz.jpg)
@@ -69,6 +72,8 @@ Altes Iphone 4 zur Seite (Iphone 8 nach vorn wird noch verarbeitet)
 [![Beispiel](https://images.mapillary.com/sZMjviGgn6apyxgRaN7G3E/thumb-2048.jpg)](https://www.mapillary.com/map/im/sZMjviGgn6apyxgRaN7G3E)
 Theoretisch könnte ich also mit drei Handys gleichzeitig aufnehmen, hab nur keine drei.
 
+---
+
 # Rucksack
 ![geruest_in_rucksack.jpg](https://joshinils.github.io/osm/geruest_in_rucksack.jpg)
 
@@ -106,6 +111,8 @@ Die Konstruktion sieht nicht so prickelnd aus, aber funktioniert super, und der 
 
 Das ganze könnte noch ein wenig weiter vom Kopf weg sein nach hinten, mit dem Helm stoße ich da manchmal hinten an.
 [![Beispiel](https://images.mapillary.com/KIzejQWayheu73hTlzu1j5/thumb-2048.jpg)](https://www.mapillary.com/map/im/KIzejQWayheu73hTlzu1j5)
+
+---
 
 # Auto
 Ja gut, Ram Mount mit Saugnapf an die Frontscheibe innen, leicht nach rechts ausrichten, hoch, damit die Motorhaube nicht drauf ist, und los.
