@@ -9,12 +9,12 @@ Da das Anbringen des Handys am Lenker nur für verwackelte Bilder sorgt, wollte 
 
 ---
 
-Das hat auch soweit Funktioniert, auf den Bildern kann man scharf alles erkennen (naja mit Einschränkungen, so ganz Perfekt geht es halt nicht mit dem Handy).
-Das Problem ist, dass da ein relativ großes Gewicht oben drauf kommt. Außerdem kann ich mich nicht frei umsehen ohne die Richtung der Bilder zu verändern (macht man ja mal auf dem Rad).
+Das hat auch soweit funktioniert, auf den Bildern kann man scharf alles erkennen (naja mit Einschränkungen, so ganz Perfekt geht es halt nicht mit dem Handy).
+Das Problem ist, dass da ein relativ großes Gewicht obendrauf kommt. Außerdem kann ich mich nicht frei umsehen, ohne die Richtung der Bilder zu verändern (macht man ja mal auf dem Rad).
 
 ![helm_seite.jpg](https://joshinils.github.io/osm/helm_seite.jpg)
 
-Erst hatte ich das Mittig angebracht als Test, bin damit auch gefahren, aber die Bilder sind halt nur so lala, und das mit dem umhersehen und dem extra Gewicht stört doch zu sehr.
+Erst hatte ich das Mittig angebracht als Test, bin damit auch gefahren, aber die Bilder sind halt nur so lala, und das mit dem Umhersehen und dem extra Gewicht stört doch zu sehr.
 
 ![helm_detail.jpg](https://joshinils.github.io/osm/helm_detail.jpg)
 
@@ -24,7 +24,7 @@ Erst hatte ich das Mittig angebracht als Test, bin damit auch gefahren, aber die
 
 Hab ich direkt wieder abgemacht, und anders verwertet.
 
-Ganz zu schweigen davon, was passiert wenn ich in eine Unfall verwickelt wäre und da ein extra Gewicht an meinem Helm hängt womit der nicht ausgelegt ist.
+Ganz zu schweigen davon, was passiert, wenn ich in einen Unfall verwickelt wäre und da ein extra Gewicht an meinem Helm hängt, womit der nicht ausgelegt ist.
 
 Die Beispielbilder habe ich nicht hochgeladen, sondern gelöscht, da die Halterung selber zu gut sehen war.
 
@@ -36,7 +36,7 @@ Die Beispielbilder habe ich nicht hochgeladen, sondern gelöscht, da die Halteru
 
 ## Idee
 Im Prinzip wollte ich eine Halterung für das Handy an meiner Person für das Spazieren gehen. Also jeweils nach Vorn, Rechts und Links sehend.
-Also ein wenig Stoff gekauft, ein Muster für eine Jacke (noch mit dem Gedanken da etwas in der Form eines Brustgurtes wie für eine GoPro zu schneidern) und drauf losgenäht.
+Also ein wenig Stoff gekauft, ein Muster für eine Jacke (noch mit dem Gedanken da etwas in der Form eines Brustgurtes wie für eine GoPro zu schneidern) und drauf los genäht.
 
 Naja nicht ganz, das hat doch etwas gedauert.
 
@@ -54,15 +54,15 @@ Die gleiche auf die Brust; deshalb ist auch der Reißverschluss so schief.
 
 ![jacke_tasche_brust.jpg](https://joshinils.github.io/osm/jacke_tasche_brust.jpg)
 
-Innen zwei Großzügige Taschen zum halten einer Power-Bank, dem Kabel dazu und eventuell irgendwelchen Krams.
+Innen zwei großzügige Taschen zum Halten einer Power-Bank, dem Kabel dazu und eventuell irgendwelchen Krams.
 
 ![jacke_innentasche.jpg](https://joshinils.github.io/osm/jacke_innentasche.jpg)
 
-Ans Ende der Handytaschen habe ich ein kleines Loich geschnitten Innen für das Ladekabel:
+Ans Ende der Handytaschen habe ich ein kleines Loch geschnitten innen für das Ladekabel:
 
 ![jacke_kabel.jpg](https://joshinils.github.io/osm/jacke_kabel.jpg)
 
-Eine Paspeltasche rechts und links, nahe der Seitennaht, da kommen die Flossen rein. Das dient auch der Armposition und somit der Orientiuerung der Tasche an der Schulter und dadurch der Drehung des Handys (wenn auch gering).
+Eine Paspeltasche rechts und links, nahe der Seitennaht, da kommen die Flossen rein. Das dient auch der Armposition und somit der Orientierung der Tasche an der Schulter und dadurch der Drehung des Handys (wenn auch gering).
 
 ![jacke_paspeltasche.jpg](https://joshinils.github.io/osm/jacke_paspeltasche.jpg)
 
@@ -71,7 +71,7 @@ Und ein solider Haken darf nicht fehlen!
 ![jacke_haken.jpg](https://joshinils.github.io/osm/jacke_haken.jpg)
 
 ## Fazit
-Gute Idee! nur hab ich gemerkt, dass ich beim reinfummeln des Handys diese leider einmal gesperrt habe und somit hat es auhc keine Bilder gemacht. Aber da hilf der Geführte Modus, erst einschalten, dann kann ich das Handy nicht mehr sperren oder sonst damit interagieren.
+Gute Idee! Nur hab ich gemerkt, dass ich beim Reinfummeln des Handys diese leider einmal gesperrt habe und somit hat es auch keine Bilder gemacht. Aber da hilf der geführte Modus, erst einschalten, dann kann ich das Handy nicht mehr sperren oder sonst damit interagieren.
 
 Schulter rechts
 [![Beispiel](https://images.mapillary.com/HGi1ilI0dXZtLOeUTdJSy0/thumb-2048.jpg)
@@ -83,7 +83,7 @@ Nach vorn
 [![Beispiel](https://images.mapillary.com/JTQrGNHZq0xMZCLtE4zv2w/thumb-2048.jpg)
 ](https://www.mapillary.com/map/im/JTQrGNHZq0xMZCLtE4zv2w)
 
-Altes Iphone 4 zur Seite (Iphone 8 nach vorn wird noch verarbeitet)
+Altes iPhone 4 zur Seite (iPhone 8 nach vorn wird noch verarbeitet)
 [![Beispiel](https://images.mapillary.com/sZMjviGgn6apyxgRaN7G3E/thumb-2048.jpg)
 ](https://www.mapillary.com/map/im/sZMjviGgn6apyxgRaN7G3E)
 Theoretisch könnte ich also mit drei Handys gleichzeitig aufnehmen, hab nur keine drei.
@@ -97,7 +97,7 @@ Theoretisch könnte ich also mit drei Handys gleichzeitig aufnehmen, hab nur kei
 ## Idee
 
 Angelehnt an [Tordans Versuche](https://www.openstreetmap.org/user/tordans/diary/395215) wollte ich auch höher hinaus.
-Da ich aber nun mein Iphone 8 nehmen wollte und keine GoPro kaufen, wollte ich es nciht versuchen das am Rad anzubringen aufgrund meiner schlechten Erfahrungen mit Halterungen am Lenker.
+Da ich aber nun mein iPhone 8 nehmen wollte und keine GoPro kaufen, wollte ich es nicht versuchen das am Rad anzubringen aufgrund meiner schlechten Erfahrungen mit Halterungen am Lenker.
 
 ![geruest_ganz.jpg](https://joshinils.github.io/osm/geruest_ganz.jpg)
 
@@ -105,7 +105,7 @@ Das ganze besteht aus Verpackungsmaterial einer Tischplatte, diese Teile waren r
 
 ![geruest_unten.jpg](https://joshinils.github.io/osm/geruest_unten.jpg)
 
-Kurz abgehobelt für einen sicheren Halt am Besenstiel (beim Schneefegen zerbrochen, nicht extra hierfür geopfert). Diese beiden Löcher hab ich vorgebohrt, die anderen alle nicht, da war mir das nicht so wichtig, ich wollt erst wissen ob das überhaupt funktioniert mit diesem Prototypen.
+Kurz abgehobelt für einen sicheren Halt am Besenstiel (beim Schneefegen zerbrochen, nicht extra hierfür geopfert). Diese beiden Löcher hab ich vorgebohrt, die anderen alle nicht, da war mir das nicht so wichtig, ich wollt erst wissen, ob das überhaupt funktioniert mit diesem Prototypen.
 
 ![geruest_ball_mount.jpg](https://joshinils.github.io/osm/geruest_ball_mount.jpg)
 
@@ -117,7 +117,7 @@ Diesen "Fuß" habe ich angebracht, da das ganze sonst im Rucksack verrutscht (vo
 
 ![geruest_fuss.jpg](https://joshinils.github.io/osm/geruest_fuss.jpg)
 
-Da das ganze noch drohte Windschief sich zu Verziehen habe ich den Hohlraum kurzerhand "bespannt":
+Da das ganze noch drohte Windschief sich zu verziehen habe ich den Hohlraum kurzerhand "bespannt":
 
 ![geruest_bespannt_2.jpg](https://joshinils.github.io/osm/geruest_bespannt_2.jpg)
 
@@ -142,9 +142,9 @@ Das ganze könnte noch ein wenig weiter vom Kopf weg sein nach hinten, mit dem H
 
 # Auto
 Ja gut, Ram Mount mit Saugnapf an die Frontscheibe innen, leicht nach rechts ausrichten, hoch, damit die Motorhaube nicht drauf ist, und los.
-Damit mache ich Tags super bilder mit dem Handy. Nur mag ich nicht extra mit dem Diesel umherfahren nur um Bilder zu machen.
+Damit mache ich Tags super Bilder mit dem Handy. Nur mag ich nicht extra mit dem Diesel umherfahren, nur um Bilder zu machen.
 
-Das benutze ich also nur, wenn ich mal mit dem Auto wohinfahre wo ich noch keine Bilder gemacht habe, dann kann ich aber auch mal einen kleinen Umweg fahren.
+Das benutze ich also nur, wenn ich mal mit dem Auto wo hinfahre, wo ich noch keine Bilder gemacht habe, dann kann ich aber auch mal einen kleinen Umweg fahren.
 
 Wenn ich stehe ist alles Scharf und nicht verwackelt.
 [![Beispiel](https://images.mapillary.com/vHf0fsekepdLc0cwor8dYU/thumb-2048.jpg)
