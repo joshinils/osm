@@ -1,6 +1,7 @@
 Da ich nicht mit ausgestrecktem Arm und das Handy in der Hand haltend herum Laufen/Radfahren wollte, hab ich mir mit der Zeit verschiedene Gedanken gemacht und einige ausprobiert.
 
 # Helm
+
 ![helm_hinten.jpg](https://joshinils.github.io/osm/helm_hinten.jpg)
 
 ## Idee
@@ -10,9 +11,11 @@ Da das Anbringen des Handys am Lenker nur für verwackelte Bilder sorgt, wollte 
 
 Das hat auch soweit Funktioniert, auf den Bildern kann man scharf alles erkennen (naja mit Einschränkungen, so ganz Perfekt geht es halt nicht mit dem Handy).
 Das Problem ist, dass da ein relativ großes Gewicht oben drauf kommt. Außerdem kann ich mich nicht frei umsehen ohne die Richtung der Bilder zu verändern (macht man ja mal auf dem Rad).
+
 ![helm_seite.jpg](https://joshinils.github.io/osm/helm_seite.jpg)
 
 Erst hatte ich das Mittig angebracht als Test, bin damit auch gefahren, aber die Bilder sind halt nur so lala, und das mit dem umhersehen und dem extra Gewicht stört doch zu sehr.
+
 ![helm_detail.jpg](https://joshinils.github.io/osm/helm_detail.jpg)
 
 ## Fazit
@@ -28,6 +31,7 @@ Die Beispielbilder habe ich nicht hochgeladen, sondern gelöscht, da die Halteru
 ---
 
 # Jacke
+
 ![jacke_ganz.jpg](https://joshinils.github.io/osm/jacke_ganz.jpg)
 
 ## Idee
@@ -39,24 +43,31 @@ Naja nicht ganz, das hat doch etwas gedauert.
 ---
 
 An den Ärmel kommt eine Tasche:
+
 ![jacke_tasche_aermel.jpg](https://joshinils.github.io/osm/jacke_tasche_aermel.jpg)
 
 Sowohl links und rechts (rechts nicht abgebildet).
+
 ![jacke_aermeltasche.jpg](https://joshinils.github.io/osm/jacke_aermeltasche.jpg)
 
 Die gleiche auf die Brust; deshalb ist auch der Reißverschluss so schief.
+
 ![jacke_tasche_brust.jpg](https://joshinils.github.io/osm/jacke_tasche_brust.jpg)
 
 Innen zwei Großzügige Taschen zum halten einer Power-Bank, dem Kabel dazu und eventuell irgendwelchen Krams.
+
 ![jacke_innentasche.jpg](https://joshinils.github.io/osm/jacke_innentasche.jpg)
 
 Ans Ende der Handytaschen habe ich ein kleines Loich geschnitten Innen für das Ladekabel:
+
 ![jacke_kabel.jpg](https://joshinils.github.io/osm/jacke_kabel.jpg)
 
 Eine Paspeltasche rechts und links, nahe der Seitennaht, da kommen die Flossen rein. Das dient auch der Armposition und somit der Orientiuerung der Tasche an der Schulter und dadurch der Drehung des Handys (wenn auch gering).
+
 ![jacke_paspeltasche.jpg](https://joshinils.github.io/osm/jacke_paspeltasche.jpg)
 
 Und ein solider Haken darf nicht fehlen!
+
 ![jacke_haken.jpg](https://joshinils.github.io/osm/jacke_haken.jpg)
 
 ## Fazit
@@ -80,30 +91,38 @@ Theoretisch könnte ich also mit drei Handys gleichzeitig aufnehmen, hab nur kei
 ---
 
 # Rucksack
+
 ![geruest_in_rucksack.jpg](https://joshinils.github.io/osm/geruest_in_rucksack.jpg)
 
 ## Idee
 
 Angelehnt an [Tordans Versuche](https://www.openstreetmap.org/user/tordans/diary/395215) wollte ich auch höher hinaus.
 Da ich aber nun mein Iphone 8 nehmen wollte und keine GoPro kaufen, wollte ich es nciht versuchen das am Rad anzubringen aufgrund meiner schlechten Erfahrungen mit Halterungen am Lenker.
+
 ![geruest_ganz.jpg](https://joshinils.github.io/osm/geruest_ganz.jpg)
 
 Das ganze besteht aus Verpackungsmaterial einer Tischplatte, diese Teile waren rundherum als Schutz der Kante in der Pappe mit dabei, nun kleingesägt haben sie doch noch einen nutzen. Und Lochband und vielen kleinen Schrauben.
+
 ![geruest_unten.jpg](https://joshinils.github.io/osm/geruest_unten.jpg)
 
 Kurz abgehobelt für einen sicheren Halt am Besenstiel (beim Schneefegen zerbrochen, nicht extra hierfür geopfert). Diese beiden Löcher hab ich vorgebohrt, die anderen alle nicht, da war mir das nicht so wichtig, ich wollt erst wissen ob das überhaupt funktioniert mit diesem Prototypen.
+
 ![geruest_ball_mount.jpg](https://joshinils.github.io/osm/geruest_ball_mount.jpg)
 
 Genauso am anderen Ende, dann aber einfach übertrieben mit Lochband. Am Ende wackelt es noch immer ein wenig, aber das muss so gehen.
+
 ![geruest_stiel_anbgebracht.jpg](https://joshinils.github.io/osm/geruest_stiel_anbgebracht.jpg)
 
 Diesen "Fuß" habe ich angebracht, da das ganze sonst im Rucksack verrutscht (vorne - hinten), hiermit ist es nun nahezu rutschfrei fixiert. Außerdem gibt das dem Ganzen ein Gewicht am unteren Ende und hebt nicht so leicht von meinem Rücken ab.
+
 ![geruest_fuss.jpg](https://joshinils.github.io/osm/geruest_fuss.jpg)
 
 Da das ganze noch drohte Windschief sich zu Verziehen habe ich den Hohlraum kurzerhand "bespannt":
+
 ![geruest_bespannt_2.jpg](https://joshinils.github.io/osm/geruest_bespannt_2.jpg)
 
 So passt das dann in den Rucksack, ist dort also nicht permanent fixiert:
+
 ![geruest_halb_rucksack.jpg](https://joshinils.github.io/osm/geruest_halb_rucksack.jpg)
 
 Am oberen Ball kann ich nun meinen RAM-Mount anbringen und mein Handy, dann noch den Bildausschnitt justieren mithilfe von meiner Apple Watch (live zusehen).
