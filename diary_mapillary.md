@@ -76,9 +76,11 @@ Gute Idee! Nur hab ich gemerkt, dass ich beim Reinfummeln des Handys diese leide
 Schulter rechts
 
 [![Beispiel](https://images.mapillary.com/HGi1ilI0dXZtLOeUTdJSy0/thumb-2048.jpg)](https://www.mapillary.com/map/im/HGi1ilI0dXZtLOeUTdJSy0)
+
 Schulter Links
 
 [![Beispiel](https://images.mapillary.com/WddFjmJ3xRXGQZxsVLBNNZ/thumb-2048.jpg)](https://www.mapillary.com/map/im/WddFjmJ3xRXGQZxsVLBNNZ)
+
 Nach vorn
 
 [![Beispiel](https://images.mapillary.com/JTQrGNHZq0xMZCLtE4zv2w/thumb-2048.jpg)](https://www.mapillary.com/map/im/JTQrGNHZq0xMZCLtE4zv2w)
@@ -86,6 +88,7 @@ Nach vorn
 Altes iPhone 4 zur Seite (iPhone 8 nach vorn wird noch verarbeitet)
 
 [![Beispiel](https://images.mapillary.com/sZMjviGgn6apyxgRaN7G3E/thumb-2048.jpg)](https://www.mapillary.com/map/im/sZMjviGgn6apyxgRaN7G3E)
+
 Theoretisch könnte ich also mit drei Handys gleichzeitig aufnehmen, hab nur keine drei.
 
 ---
